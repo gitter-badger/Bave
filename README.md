@@ -1,4 +1,5 @@
 <h1>Bave</h1>
+<h2>Information about Bave</h2>
 <p>Bave is a minimalistic calculation and file manipulation console.
 This program is an experiment based on sources from the CalcWizard project and the Python programming language.
 Clone the git repo into a directory of your choosing and navigate to the directory where the file "bave.py" is located.

@@ -1,4 +1,4 @@
-h1>Bave</h1>
+<h1>Bave</h1>
 <h2>Information about Bave</h2>
 <p>Bave is a minimalistic calculation and file manipulation console.
 This program is an experiment based on sources from the CalcWizard project and the Python programming language.

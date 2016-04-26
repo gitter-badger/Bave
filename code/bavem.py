@@ -96,7 +96,7 @@ def help():
     print ("")
     print (" -x  evaluates a full expression")
     print ("")
-    print (" -l  dsiplays the license agreement")
+    print (" -l  displays the license agreement")
     print ("")
     print (" -e  exits the console")
     print ("")

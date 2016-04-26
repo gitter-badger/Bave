@@ -14,6 +14,9 @@ cmd = raw_input("$>> ")
 
 if cmd == "help":
     bavem.help()
+    
+elif cmd == "bave -h":
+    bavem.help()
 
 elif cmd == "bave -a":
     print("")
@@ -79,6 +82,9 @@ while cmd == "bave -a" or cmd == "bave -s" or cmd == "bave -m" or cmd == "bave -
     cmd = raw_input("$>> ")
 
     if cmd == "help":
+        bavem.help()
+        
+    elif cmd == "bave -h":
         bavem.help()
 
     elif cmd == "bave -a":
